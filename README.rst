@@ -12,6 +12,8 @@ are then impassable to the cat). Every time you move, the cat then
 uses an AI to determine it's shortest path and it takes one step toward
 freedom.
 
+`Play the Game <https://joelburton.github.io/chat-noir-js/index.html>`_
+
 Can you stop the cat in time?
 
 
