@@ -2,6 +2,8 @@
 Chat Noir
 =========
 
+.. image:: chat-noir.png
+
 A JS implementation of a graph-based game.
 
 In this game, the cat (the red dot) is trying to escape to freedom. You can
