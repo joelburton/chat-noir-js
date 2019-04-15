@@ -15,6 +15,7 @@ const DEBUG = true;  // show distances on board?
 class Spot {
   /** Make a spot:
    *
+   *
    * - create the SVG circle
    * - create the text overlay for distance in debug mode
    * - set initial properties of spot
