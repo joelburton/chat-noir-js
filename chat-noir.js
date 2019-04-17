@@ -8,7 +8,7 @@ const boundary = { adjacent: [], distance: 0 };
 
 const SVG_NS = "http://www.w3.org/2000/svg";
 
-const DEBUG = maybe; // ???
+const DEBUG = true; 
 
 /** Spot on the board */
 
